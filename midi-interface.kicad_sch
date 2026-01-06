@@ -6579,7 +6579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
 			(at 260.35 36.83 0)
 			(effects
 				(font
@@ -7080,7 +7080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
 			(at 260.35 20.32 0)
 			(effects
 				(font
@@ -7147,7 +7147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
 			(at 260.35 69.85 0)
 			(effects
 				(font
@@ -7916,7 +7916,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
 			(at 260.35 53.34 0)
 			(effects
 				(font
